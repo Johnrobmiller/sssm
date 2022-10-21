@@ -1,0 +1,11 @@
+{
+  "name": "sssm",
+  "version": "0.0.1",
+  "description": "A stupidly simple state machine.",
+  "main": "index.js",
+  "author": "Trigram Co.",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
